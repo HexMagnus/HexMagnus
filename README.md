@@ -1,4 +1,4 @@
-## Olá,seja bem vindo ao meu Github!
+## Olá, seja bem vindo ao meu Github!
 <div align="center">
   <a href="https://github.com/HexMagnus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HexMagnus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
