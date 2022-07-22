@@ -1,7 +1,7 @@
 ## Olá, 
 # Bem vindo(a) ao meu GITHUB!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HexMagnus)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://i.gifer.com/7W7E.gif"/>
 
 <div align="center">
   <a href="https://github.com/HexMagnus">
