@@ -1,7 +1,8 @@
 ## Olá, 
 # Bem vindo(a) ao meu GITHUB!
 
-<img src="https://i.gifer.com/7W7E.gif"/>
+</>
+<img align="center" alt="luke-java" height="30" width="40"src="img src="https://i.gifer.com/7W7E.gif" />
 
 <div align="center">
   <a href="https://github.com/HexMagnus">
