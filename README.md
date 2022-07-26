@@ -2,7 +2,7 @@
 # Bem vindo(a) ao meu GITHUB!
 
   ##
-<h1 align="center">Olá 👋, sou o Lucas Martins</h1>
+<h1 align="center">Welcome!!!</h1>
 <h3 align="center">Java Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hexmagnus" alt="hexmagnus" /></a> </p>
