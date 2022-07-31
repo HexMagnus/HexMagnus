@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **e-econect**
 
-- 🌱 I’m currently learning **Java Frammerworks**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Java**
 
